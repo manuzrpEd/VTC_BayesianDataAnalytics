@@ -45,10 +45,11 @@ $RECYCLE.BIN/
 
 # Data files
 *.csv
-*.xlsx
 *.log
+*.db
 *.dta
 *.rds
+*.xlsx
 *.zip
 
 #PyCharm
