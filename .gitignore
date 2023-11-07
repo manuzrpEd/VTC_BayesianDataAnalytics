@@ -45,7 +45,7 @@ $RECYCLE.BIN/
 
 # Data files
 *.csv
-*.xslx
+*.xlsx
 *.log
 *.dta
 *.rds
