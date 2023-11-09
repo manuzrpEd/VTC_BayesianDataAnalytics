@@ -56,7 +56,8 @@ $RECYCLE.BIN/
 *.git
 *.idea
 
-# PDFs
+# other documents
 *.pdf
+*.odt
 
 # Yml Config
